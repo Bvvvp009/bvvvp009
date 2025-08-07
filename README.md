@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Karthik — Web3 Developer & Infra-Savvy Builder
 
-I'm a self-taught **Web3 developer** with a strong grasp of smart contracts, backend systems, and deployment pipelines. I specialize in building, launching, and maintaining dApps, bots, and blockchain infrastructure.
-
 ![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bvvvp009&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
