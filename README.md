@@ -14,30 +14,6 @@
 
 ---
 
-## 🧰 Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=ts,js,solidity,nodejs,react,py,postgres,docker,linux,tailwind,bash)](https://skillicons.dev)
-
-- **Languages**: TypeScript, JavaScript, Solidity, Python  
-- **Smart Contracts**: Hardhat, Viem, Ethers.js, Foundry  
-- **Frontend**: React, Tailwind CSS, Telegram Bot API  
-- **Backend**: Node.js, PostgreSQL  
-- **Infra & DevOps**:  
-  - Comfortable with **Linux servers**, **Docker**, **Nginx**, and **self-hosted deployments**
-  - Familiar with **Bash scripting** and **automating project deployments**
-  - Experience running and maintaining **blockchain nodes**
-
----
-
-## 🧠 Currently Exploring
-
-- 🤖 AI x DeFi: Transaction risk scoring, bot intelligence, and automation  
-- 🔁 Advanced liquidity strategies: DLMM + perpetual hedging  
-- 📦 Full-stack deployment pipelines and infra management for dApps  
-- 🧪 Building developer tools and bots for smoother Web3 UX
-
----
-
 ## 🧾 Contact & Links
 
 - 🔗 GitHub: [@bvvvp009](https://github.com/bvvvp009)  
