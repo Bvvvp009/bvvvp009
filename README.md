@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karthik — Web3 Developer & Infra-Savvy Builder
 
-[Karthik's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=bvvvp009&show_icons=true&theme=dark)
+![Karthik's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=bvvvp009&show_icons=true&theme=dark)
 
 ---
 
