@@ -9,7 +9,6 @@
 - ⚡ **[Hyperfill.fun](https://hyperfill.fun)** — Multi-chain gas refill dApp
 - 📈 **Perpetual Trading Router on Base**  
   ↳ Integrated into Telegram bot: [`@sugamatradebot`](https://t.me/sugamatradebot)
-- 🤖 **DLMM Auto Rebalancer + Hedge Bot** on Solana (WIP)
 - 🛡️ AI-driven TX scanner for malicious Ethereum activity (flashloans, phishing, etc.)
 
 ---
